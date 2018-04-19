@@ -1,6 +1,6 @@
 {
-	"name" : "Stonely-t/sdk",
-	"description" : "Stonely-t PHP SDK",
+	"name" : "stonelyht/sdk",
+	"description" : "stonelyht PHP SDK",
 	"keywords" : [
 		"Stonely",
 		"sdk"
@@ -13,11 +13,11 @@
 	"config" : {
 		"preferred-install" : "dist"
 	},
-	"homepage" : "https://github.com/Stonely-t/sdk",
+	"homepage" : "https://github.com/stonelyht/sdk",
 	"support" : {
-		"issues" : "https://github.com/Stonely-t/sdk/issues",
-		"wiki" : "https://github.com/Stonely-t/sdk/wiki",
-		"source" : "https://github.com/Stonely-t/sdk"
+		"issues" : "https://github.com/stonelyht/sdk/issues",
+		"wiki" : "https://github.com/stonelyht/sdk/wiki",
+		"source" : "https://github.com/stonelyht/sdk"
 	},
 	"require-dev" : {
 		"phpunit/phpunit" : "~5.7"
