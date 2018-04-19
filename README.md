@@ -4,11 +4,14 @@
 
 #代码示例
 
+<?php
+
 require_once("vendor/autoload.php");
+
 use \Yunpian\Sdk\YunpianClient;
 
 //初始化client,apikey作为所有请求的默认值
-$clnt = YunpianClient::create('xxxxxx');//apikey请前往豪霆云官网申请（www.haotingyun.com）
+    $clnt = YunpianClient::create('xxxxxx'); //apikey请前往豪霆云官网申请（www.haotingyun.com）
 
     $param = [
 
